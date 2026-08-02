@@ -61,7 +61,7 @@ Le poste de Data Analyst est le plus représenté dans le jeu de données. On ob
 
 ### 2. Les secteurs d’activité les plus représentés
 
-![Les secteurs d'activité les plus représentés](images/secteurs.png)
+![Les secteurs d'activité les plus représentés](images/secteur.png)
 
 Les offres d’emploi sont principalement concentrées dans les secteurs de la technologie, de la finance et des services aux entreprises. Ces secteurs utilisent fortement l’analyse de données pour aider à la prise de décision.
 
